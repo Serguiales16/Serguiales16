@@ -1,6 +1,6 @@
 # 👨‍💻 ¡Hola, soy un Programador Junior Apasionado!
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador junior con muchas ganas de aprender y crecer en el mundo de la tecnología.
+¡Bienvenido a mi perfil de GitHub! Me llamo Sergio Moreno, Soy un desarrollador junior con muchas ganas de aprender y crecer en el mundo de la tecnología.
 
 ## 🚀 Sobre mí
 
