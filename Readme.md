@@ -1,47 +1,74 @@
-# 👨‍💻 ¡Hola, soy un Programador Junior Apasionado!
+# 👨‍💻 Sergio Moreno | Desarrollador Junior con Base Sólida
 
-¡Bienvenido a mi perfil de GitHub! Me llamo Sergio Moreno, Soy un desarrollador junior con muchas ganas de aprender y crecer en el mundo de la tecnología.
+**¡Bienvenido a mi perfil de GitHub!**
 
-## 🚀 Sobre mí
+Soy desarrollador junior en constante formación en programación, bases de datos y sistemas. Mi objetivo es construir una **base técnica completa** orientada a la **solución de problemas** y la **arquitectura correcta** en proyectos reales.
 
-Soy curioso, autodidacta y siempre busco nuevas formas de resolver problemas. Me encanta trabajar en equipo y enfrentar desafíos que me permitan mejorar mis habilidades.
+---
+
+## 🚀 Sobre Mí
+
+* **Perfil:** Analítico, autodidacta y constante.
+* **Intereses:** Entender el *cómo* y el *por qué* de la tecnología, y no solo hacerla funcionar.
+* **Objetivo:** Crecer como desarrollador, aplicando **buenas prácticas**, **arquitectura limpia** y tecnología usada en entornos profesionales.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-- ☕ **Java**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- ✨ **JavaScript**
-- 🌱 **Spring Boot** (básico)
-- 🎀 **Bootstrap**
-- 🗄️ **MySQL** (básico)
-- 🔧 **Git**
-- 🖥️ **VS Code**
-- 💡 **Eclipse**
+
+### 💻 Lenguajes y Desarrollo
+
+| Área | Habilidades |
+| :--- | :--- |
+| **Java** (☕) | **POO**, **JDBC**, procesos, interfaces gráficas. |
+| **Python** (🐍) | Bases sólidas. |
+| **Web** (🌐) | **HTML5**, **CSS3**, **JavaScript** (bases). |
+| **Móvil** (📱) | **Android** (Kotlin / Java), **Jetpack Compose** (UI declarativa), **`RecyclerView`**, `adapters`, actividades. |
+| **Cross-Platform** | **Flutter** (bases, Material 3). |
+
+### ⚙️ Backend y Frameworks
+
+* **Spring Boot** (🌱): Nivel inicial y fundamentos.
+* **APIs REST** (🔌): Capacidad de consumo de APIs externas.
+* **ML** (🧠): Introducción a Machine Learning.
+
+### 🗄️ Bases de Datos
+
+* **MySQL** (🐬): Principal motor de gestión.
+* **Consultas:** **Avanzadas**, Subconsultas, Procedimientos almacenados, Funciones y Cursores.
+* **Diseño:** **Modelado** de bases de datos relacionales complejas.
+
+### 🌐 Sistemas, Redes y DevOps
+
+* **Control de Versiones:** **Git & GitHub** (🔧) (manejo de ramas y flujos de trabajo).
+* **Fundamentos:** **Redes** y **Ciberseguridad** (🛡️).
+* **Cloud:** **Google Cloud** (☁️) (formación inicial).
+* **Cursos:** Cisco Networking Academy (introductorios).
 
 ---
 
 ## 💪 Aptitudes y Fortalezas
-- 🧠 Pensamiento lógico y analítico
-- 🤝 Trabajo en equipo y comunicación efectiva
-- 🔄 Adaptabilidad a nuevas tecnologías
-- 🔍 Atención al detalle
-- ⏳ Capacidad para trabajar bajo presión
-- 💡 Proactividad en la búsqueda de soluciones
-- 📅 Organización y gestión del tiempo
+
+* **Pensamiento Lógico** (🧠): Capacidad para estructurar y resolver problemas.
+* **Trabajo en Equipo** (🤝).
+* **Aprendizaje Continuo** (📚): Gran capacidad de adaptación a nuevas tecnologías.
+* **Atención al Detalle** (🔍): Rigor en código y diseño.
+* **Gestión** (⏳): Organización y gestión efectiva del tiempo.
+* **Enfoque Práctico** (💡): Orientación a resultados y soluciones.
 
 ---
 
 ## 🌟 Proyectos Destacados
-- 📦 Desarrollo de una aplicación CRUD en Java para gestión de inventarios
-- 🌐 Creación de una página web personal utilizando HTML, CSS y JavaScript
+
+* **Aplicación CRUD en Java** (📦): Conexión directa a **MySQL** usando **JDBC**.
+* **Base de Datos Compleja** (🗄️): Sistema tipo liga/fantasy con **relaciones avanzadas** y procedimientos.
+* **Aplicación Android** (📱): Demostración de **`RecyclerView`** y navegación entre actividades.
+* **Gestión de Saldo en Java** (💰): Implementación de una **API de conversión de moneda** externa.
 
 ---
 
 ## 🎯 Objetivo Profesional
-Seguir creciendo como desarrollador, aportando mis conocimientos y aprendiendo de nuevos desafíos en el ámbito de la programación.
+
+Busco afianzar mis conocimientos como desarrollador **backend/generalista**, profundizando en **Java (Spring)**, **arquitectura** y **bases de datos**. Mi meta es incorporarme a un entorno profesional donde pueda seguir aprendiendo y aplicando las **buenas prácticas** de la industria.
 
 ---
-
-¡Gracias por visitar mi perfil! 😊
