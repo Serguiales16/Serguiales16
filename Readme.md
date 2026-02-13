@@ -67,11 +67,14 @@ Soy desarrollador junior en constante formación en programación, bases de dato
 
 ---
 
-## 🎯 Objetivo Profesional
+###
 
-Busco afianzar mis conocimientos como desarrollador **backend/generalista**, profundizando en **Java (Spring)**, **arquitectura** y **bases de datos**. Mi meta es incorporarme a un entorno profesional donde pueda seguir aprendiendo y aplicando las **buenas prácticas** de la industria.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
+
 
 ###
 
@@ -84,3 +87,4 @@ Busco afianzar mis conocimientos como desarrollador **backend/generalista**, pro
 </div>
 
 ###
+
