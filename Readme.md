@@ -1,289 +1,508 @@
-# 👋 Soy Serguiales
+<div align="center">
 
-> **Junior Developer en proceso de evolución.**  
-> Todavía no soy senior, pero ya tengo la sana costumbre de meterme en proyectos que probablemente debería dejar para cuando lo sea. 🚀
+# ⚡ SERGUIALES.exe
+
+### `Junior Developer → Loading Senior...`
 
 ```text
-Developer
-├── .NET / C#
-├── Integraciones & APIs
-├── Shopify
-├── PostgreSQL
-├── Docker / Linux
-├── IA & agentes
-├── Homelab
-└── "¿Y si automatizamos esto también?"
+[██████████████░░░░░░] 70%
 ```
 
-## 🧑‍💻 Qué hago
+**.NET Developer · AI Builder · Homelab Addict · Professional Overengineer**
 
-Trabajo principalmente desarrollando **integraciones, APIs y sistemas backend**, especialmente alrededor de:
+> _"¿Y si en vez de hacerlo manualmente montamos una API, tres contenedores y un agente?"_
 
-- ⚙️ **.NET / C#**
-- 🛍️ **Shopify Admin API + GraphQL**
-- 🗄️ **PostgreSQL / SQL Server**
-- 🐳 **Docker**
-- ⚛️ **React**
-- 🔌 Integraciones entre **ERP, PIM, bases de datos y e-commerce**
-- 🧪 **xUnit, Testcontainers y testing de integración**
-- ☁️ **GitHub / Azure DevOps**
-- 🐧 **Linux y servidores**
+<br>
 
-Mi especialidad no oficial es acabar preguntándome:
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Shopify](https://img.shields.io/badge/Shopify-GraphQL-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Agentic_Systems-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-> *“¿Por qué hacer esto manualmente si puedo tardar tres días en automatizar algo que tardaba cinco minutos?”*
-
-Ingeniería. 🗿
+</div>
 
 ---
 
-# 🤖 IA + desarrollo
-
-La IA no es para mí simplemente un chatbot que termina métodos.
-
-Me interesa construir **entornos completos donde agentes, herramientas, memoria y aplicaciones trabajen juntos**.
-
-Actualmente experimento con:
-
-`LLMs` · `RAG` · `Qdrant` · `OpenRouter` · `MCP` · `agentes` · `embeddings` · `automatización` · `context engineering`
-
-Uso herramientas como **Cursor, ChatGPT y agentes de código** como parte real de mi flujo de desarrollo.
-
-Mi objetivo es pasar de:
-
 ```text
-Humano → IA → respuesta
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│             S E R G U I A L E S   S Y S T E M               │
+│                                                              │
+│    Backend ................. ONLINE                           │
+│    Homelab ................. ONLINE                           │
+│    AI Agents ............... EXPERIMENTAL                     │
+│    Sleep schedule .......... QUESTIONABLE                     │
+│    Number of ideas ......... CRITICAL                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-a algo más parecido a:
+# 👋 `whoami`
 
-```text
-Humano
-   ↓
-Agente
-   ├── memoria
-   ├── herramientas
-   ├── proyectos
-   ├── servidores
-   ├── APIs
-   └── otros agentes
+Soy **Serguiales**, desarrollador junior especializado principalmente en **backend, integraciones y sistemas conectados**.
+
+Trabajo especialmente con:
+
+```bash
+$ cat stack.txt
+.NET / C#
+PostgreSQL
+SQL Server
+Shopify GraphQL
+React
+Docker
+Linux
+APIs
+Testing
+AI / LLMs
 ```
 
-Porque aparentemente un asistente normal no era suficientemente complicado. 😌
+Actualmente estoy en esa fase profesional donde todavía pone **Junior** en la etiqueta...
+
+...pero ya me parece completamente razonable construir un sistema distribuido con memoria semántica porque quería que mi asistente recordase cosas.
+
+Normal. 🗿
 
 ---
 
-# 🧠 MindCore
+# 🧬 `tech-tree`
+
+```text
+                           SERGUIALES
+                               │
+            ┌──────────────────┼──────────────────┐
+            │                  │                  │
+            ▼                  ▼                  ▼
+        BACKEND               AI              HOMELAB
+            │                  │                  │
+      .NET / C#              LLMs               Linux
+      REST APIs              RAG                Docker
+      GraphQL                MCP                Cloudflare
+      PostgreSQL             Agents             Grafana
+      SQL Server             Qdrant             Servers
+      Redis                  Embeddings          Networking
+            │                  │                  │
+            └──────────────────┼──────────────────┘
+                               │
+                               ▼
+                        OVERENGINEERING
+```
+
+---
+
+# 🛠️ `~/skills`
+
+### ⚙️ Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+Desarrollo APIs, integraciones y procesos backend intentando que:
+
+```text
+funcione
+   +
+sea mantenible
+   +
+no explote a las 03:00
+```
+
+---
+
+### 🗄️ Datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+Relacional, caché, vectores...
+
+Porque aparentemente tener **una sola base de datos** era demasiado sencillo.
+
+---
+
+### 🧪 Testing
+
+![xUnit](https://img.shields.io/badge/xUnit-Testing-5C2D91?style=flat-square)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Intento seguir la revolucionaria técnica de:
+
+> **comprobar que el código funciona antes de subirlo.**
+
+Tecnología punta.
+
+---
+
+### 🛒 Integraciones
+
+Trabajo con sistemas donde normalmente ocurre algo parecido a:
+
+```text
+ERP
+ │
+ ├── Products
+ ├── Stock
+ ├── Prices
+ └── Orders
+ │
+ ▼
+Integration Layer
+ │
+ ▼
+Shopify
+```
+
+Especialmente:
+
+- Shopify Admin API
+- GraphQL
+- sincronización de productos
+- inventario
+- pedidos
+- ERP / PIM
+- bases de datos
+- automatización de procesos
+
+---
+
+# 🤖 `AI_MODE=enabled`
+
+No me interesa utilizar IA únicamente para:
+
+```text
+"hazme esta función"
+```
+
+Me interesa construir:
+
+```text
+                   ┌─────────────┐
+                   │    USER     │
+                   └──────┬──────┘
+                          │
+                          ▼
+                    ┌──────────┐
+                    │  AGENT   │
+                    └────┬─────┘
+                         │
+           ┌─────────────┼─────────────┐
+           ▼             ▼             ▼
+        MEMORY         TOOLS        SERVICES
+           │             │             │
+        Qdrant           MCP           APIs
+        SQL             GitHub        Docker
+        Graph           Search        Homelab
+```
+
+Áreas que estoy explorando:
+
+`LLMs` · `RAG` · `MCP` · `Agents` · `Embeddings` · `Qdrant` · `OpenRouter` · `Context Engineering`
+
+---
+
+# 🧠 `PROJECT: MindCore`
 
 Uno de mis proyectos principales.
 
-**MindCore** es el sistema central de memoria que estoy construyendo para mis agentes de IA.
+**MindCore** pretende convertirse en la memoria central de todo mi ecosistema de IA.
 
 ```text
-Agentes / JARVIS / SerguialesOS
-              │
-              ▼
-          🧠 MindCore
-              │
-      ┌───────┼────────┐
-      ▼       ▼        ▼
- PostgreSQL  Qdrant   Outline
-   verdad    búsqueda conocimiento
+                         AGENTS
+                            │
+                            ▼
+                    ┌──────────────┐
+                    │   MindCore   │
+                    └──────┬───────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+        PostgreSQL       Qdrant        Outline
+             │             │             │
+         SOURCE OF       SEMANTIC       HUMAN
+           TRUTH          INDEX         MEMORY
 ```
 
-La idea es que un agente pueda recordar:
+No quiero únicamente almacenar texto.
 
-- decisiones;
-- proyectos;
-- problemas y soluciones;
-- preferencias;
-- arquitectura;
-- relaciones entre entidades;
-- cambios históricos;
-- cosas que aprendió anteriormente.
+Quiero poder representar:
 
-Y, sobre todo, distinguir entre:
+- 🧠 recuerdos;
+- 🎯 decisiones;
+- 🔗 relaciones;
+- 📅 eventos;
+- 🕒 evolución temporal;
+- 🚀 proyectos;
+- 💡 ideas;
+- 🛠️ problemas y soluciones;
+- 👤 conocimiento sobre el usuario.
 
-> **“Esto es cierto ahora.”**
+Y distinguir cosas como:
 
-y:
+```text
+2025:
+Jira era el gestor de tareas.
 
-> **“Esto era cierto hace seis meses.”**
+2026:
+Plane sustituyó a Jira.
+```
 
-Porque una memoria que solo acumula texto acaba siendo básicamente un cajón lleno de cables. 🔌
+Porque:
 
----
-
-# 🖥️ SerguialesOS
-
-También estoy construyendo mi propia especie de **sistema operativo personal para IA**.
-
-No un sistema operativo tradicional.
-
-Más bien un dashboard desde el que gestionar:
-
-- 🤖 agentes;
-- 🧠 memoria;
-- 🏠 homelab;
-- 📊 servicios;
-- 📝 conocimiento;
-- 🔧 automatizaciones;
-- 💻 proyectos;
-- 🌐 aplicaciones self-hosted.
-
-Mi objetivo final es tener un entorno tipo **JARVIS personal**, pero funcionando sobre infraestructura que controlo yo.
-
-Seguramente completamente innecesario.
-
-Precisamente por eso hay que construirlo.
+```text
+memory != pile_of_text
+```
 
 ---
 
-# 🏠 Homelab enjoyer
+# 🖥️ `PROJECT: SerguialesOS`
 
-También tengo la enfermedad conocida como:
+Mi intento completamente razonable de construir una especie de:
 
-> **“Esto podría self-hostearlo.”**
+> **JARVIS + dashboard + homelab + agentes + memoria + automatización**
 
-Me interesa especialmente:
+```text
+┌──────────────── SERGUIALES OS ────────────────┐
+│                                               │
+│  🤖 Agents      🧠 Mind      📊 Monitoring    │
+│                                               │
+│  🖥 Servers     🚀 Projects  🔧 Automation    │
+│                                               │
+│  📚 Knowledge   🌐 Services  ⚡ Integrations  │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+La idea es disponer de un entorno personal donde la IA pueda interactuar con mis proyectos, servicios, memoria e infraestructura.
+
+Básicamente:
+
+```text
+Iron Man
+```
+
+pero con presupuesto de desarrollador junior.
+
+---
+
+# 🏠 `sudo homelab`
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+Tengo una ligera tendencia a pensar:
+
+```text
+"Existe un SaaS que hace esto."
+```
+
+seguido inmediatamente por:
+
+```text
+"Sí... pero podría self-hostearlo."
+```
+
+Y así empiezan los problemas.
+
+Me interesan especialmente:
 
 - Docker
 - Linux
 - Cloudflare Tunnel
-- Cloudflare Access
-- PostgreSQL
-- Qdrant
-- Grafana
-- servidores de juegos
-- APIs propias
-- servicios web
+- seguridad de servicios
+- observabilidad
+- bases de datos
+- servidores
 - automatización
-- infraestructura barata pero escalable
+- infraestructura económica
+- reutilizar hardware
 
-Siempre intentando encontrar ese delicado equilibrio entre:
-
-```text
-Enterprise Architecture™
-```
-
-y
+Mi arquitectura empresarial favorita:
 
 ```text
-un PC viejo debajo de una mesa
+┌────────────────────────────┐
+│ Enterprise-grade software  │
+│                            │
+│ ejecutándose en            │
+│                            │
+│ un PC que encontré barato  │
+└────────────────────────────┘
 ```
 
 ---
 
-# 🛠️ Stack habitual
+# 🧰 `developer_tools`
 
-| Área | Tecnologías |
-|---|---|
-| Backend | C#, .NET, REST APIs |
-| Frontend | React, JavaScript/TypeScript |
-| Datos | PostgreSQL, SQL Server, Redis |
-| E-commerce | Shopify, GraphQL |
-| Testing | xUnit, Testcontainers |
-| IA | LLMs, RAG, Qdrant, OpenRouter, MCP |
-| DevOps | Docker, GitHub, Azure DevOps |
-| Infra | Linux, Cloudflare |
-| IDEs | Rider, Cursor |
+![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-000000?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
-Y sí, **Rider**.
+Mi IDE principal es **JetBrains Rider**.
 
-Visual Studio puede mandar sus quejas por escrito.
+Visual Studio sigue instalado porque...
+
+Bueno.
+
+Todos cometemos errores.
 
 ---
 
-# 🔬 Cómo aprendo
+# 📚 `learning_algorithm()`
 
-Mi filosofía suele ser bastante simple:
+```csharp
+while (!KnowHowToDoIt)
+{
+    Try();
+
+    if (SomethingExplodes)
+    {
+        UnderstandWhy();
+        Fix();
+        Experience++;
+    }
+}
+```
+
+Mi forma favorita de aprender es construir cosas reales.
+
+Eso suele implicar:
 
 ```text
-No sé hacerlo
-     ↓
-lo intento
-     ↓
-rompo algo
-     ↓
-entiendo por qué se rompió
-     ↓
-ahora sí sé hacerlo
+IDEA
+ ↓
+PROTOTYPE
+ ↓
+"esto debería ser sencillo"
+ ↓
+DATABASE
+ ↓
+DOCKER
+ ↓
+BACKGROUND JOBS
+ ↓
+OBSERVABILITY
+ ↓
+WHY IS THIS A DISTRIBUTED SYSTEM?
 ```
 
-Prefiero aprender construyendo cosas reales antes que pasar meses acumulando tutoriales.
-
-Eso significa que muchas veces termino investigando temas que, estrictamente hablando, están bastante por encima de lo que se supone que debería estar haciendo un junior.
-
-Y esa es un poco la gracia.
-
 ---
 
-# 🎯 Hacia dónde voy
-
-Ahora mismo soy **junior**.
-
-No intento esconderlo ni adornarlo.
-
-Pero mi objetivo no es simplemente acumular años hasta que alguien cambie mi título a senior.
-
-Quiero desarrollar las cosas que realmente hacen bueno a un desarrollador:
-
-- entender sistemas completos;
-- diseñar buena arquitectura;
-- escribir código mantenible;
-- saber depurar problemas difíciles;
-- entender infraestructura;
-- automatizar procesos;
-- saber cuándo una solución es demasiado complicada;
-- utilizar IA sin depender ciegamente de ella;
-- tomar buenas decisiones técnicas.
-
-**Junior es mi nivel actual.  
-Senior es la dirección.**
-
----
-
-# 🧪 Cosas con las que probablemente me encontrarás jugando
-
-- 🤖 agentes autónomos;
-- 🧠 sistemas de memoria para IA;
-- 🥽 VR y nuevas interfaces;
-- 🏠 automatización y homelab;
-- 📈 sistemas de análisis e inversión;
-- 🎮 servidores de juegos;
-- 🧟 Project Zomboid;
-- 🛠️ cualquier cacharro tecnológico que pueda desmontar, modificar o convertir en servidor.
-
----
-
-# 🧩 Mi problema fundamental
-
-Tengo demasiadas ideas.
-
-La solución lógica claramente era construir un sistema de IA para organizar todas mis ideas.
-
-Eso generó nuevas ideas sobre cómo mejorar el sistema que organiza mis ideas.
-
-Estamos trabajando en ello.
-
----
-
-## 🚀 En resumen
-
-Soy un desarrollador que disfruta especialmente construyendo **sistemas conectados**, automatizando cosas y explorando qué ocurre cuando mezclas:
+# 📈 `career`
 
 ```text
-Software
-+ IA
-+ servidores
-+ automatización
-+ demasiada curiosidad
------------------------
-= Serguiales
+JUNIOR
+  │
+  │   ████████████░░░░
+  │
+  ▼
+MID
+  │
+  │
+  ▼
+SENIOR
 ```
 
-Todavía aprendiendo.
+No intento fingir que soy senior.
 
-Todavía rompiendo cosas.
+Mi objetivo tampoco es esperar mágicamente suficientes años hasta que alguien cambie mi etiqueta.
 
-Cada vez rompiéndolas con más conocimiento. 😎
+Quiero aprender las habilidades que realmente importan:
+
+- arquitectura;
+- debugging;
+- mantenibilidad;
+- testing;
+- diseño de sistemas;
+- infraestructura;
+- APIs;
+- bases de datos;
+- comunicación técnica;
+- decisiones pragmáticas;
+- saber cuándo **NO** construir algo complicado.
+
+Esa última todavía está en beta.
+
+---
+
+# 🎮 `side_quests`
+
+Cuando no estoy programando probablemente estoy haciendo alguna de estas cosas:
+
+```text
+🤖 Construir agentes de IA
+🖥️ Romper/mejorar el homelab
+🥽 Experimentar con VR
+🎮 Jugar survival
+🧟 Sobrevivir en Project Zomboid
+📈 Investigar sistemas de inversión
+🔧 Mirar hardware que claramente no necesito
+💡 Tener otra idea de proyecto
+```
+
+---
+
+# 🧩 `known_issues`
+
+```yaml
+bugs:
+  - demasiadas ideas
+  - demasiados proyectos
+  - tendencia a automatizar cosas innecesarias
+  - piensa que todo puede ser un microservicio
+
+workarounds:
+  - MindCore
+  - SerguialesOS
+
+status:
+  - work_in_progress
+```
+
+---
+
+# 📊 GitHub Stats
+
+<!-- Sustituye TU_USUARIO_GITHUB por tu usuario personal -->
+
+<div align="center">
+
+![Serguiales GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Current objective
+
+```text
+BUILD → BREAK → UNDERSTAND → IMPROVE → REPEAT
+```
+
+### Junior today.
+
+### Better developer tomorrow.
+
+### Senior eventually.
+
+### Probably still debugging Docker either way.
+
+<br>
+
+**`Serguiales.exe is still running...`**
+
+</div>
