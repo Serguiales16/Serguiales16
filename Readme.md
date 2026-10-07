@@ -120,7 +120,7 @@ También estoy construyendo mi propia especie de **sistema operativo personal pa
 
 No un sistema operativo tradicional.
 
-Más bien un dashboard desde el que gestionar:
+Más bien un dashboard desde el que gestionartodo el trabajo de IA:
 
 - 🤖 agentes;
 - 🧠 memoria;
